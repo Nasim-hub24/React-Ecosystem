@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": 1,
+    "name": "Classic Cotton T-Shirt",
+    "category": "Men",
+    "price": 650,
+    "features": ["100% cotton", "Regular fit", "Soft and breathable"]
+  },
+  {
+    "id": 2,
+    "name": "Floral Summer Dress",
+    "category": "Women",
+    "price": 1450,
+    "features": ["Lightweight fabric", "Floral print", "Comfortable fit"]
+  },
+  {
+    "id": 3,
+    "name": "Kids Cartoon Hoodie",
+    "category": "Kids",
+    "price": 950,
+    "features": ["Warm material", "Cartoon print", "Front pocket"]
+  }
+]
