@@ -4,6 +4,7 @@ import './App.css'
 import DaisyNav from './components/daisyNav/DaisyNav'
 import NavBar from './components/NavBar/NavBar'
 import PricingOptions from './components/PricingOptions/PricingOptions'
+import ResultChart from './components/ResultChart/ResultChart'
 
 const PricingOp = fetch('PricingData.json').then(res => res.json());
 
@@ -24,6 +25,8 @@ function App() {
           </PricingOptions>
         </Suspense>
       </main>
+
+      <ResultChart></ResultChart>
     </>
   )
 }
